@@ -1,0 +1,4 @@
+MONGO_URI=mongodb://dataBase:27017/trips
+
+# for local localhost
+# for docker dataBase
