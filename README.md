@@ -16,3 +16,13 @@ for run local test
 
 for run unit test
 ```npm run test```
+
+## docker
+```
+docker compose build 
+docker compose up -d
+```
+or 
+```
+docker compose up -d --build 
+```
